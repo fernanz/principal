@@ -1,10 +1,15 @@
-@import url(http://fonts.googleapis.com/css?family=IM+Fell+English);
-
 @font-face {
     font-family: 'Libre Baskerville';
     font-style: normal;
     font-weight: 400;
     src: local('Libre Baskerville 16'),url(//brick.a.ssl.fastly.net/Libre+Baskerville:400,400i) format('woff');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Montserrat 18'),url(//brick.a.ssl.fastly.net/Montserrat:700) format('woff');
 }
 
 body {
@@ -14,9 +19,9 @@ body {
 }
 
 h1, h3 {
-  font-family: 'IM Fell English', serif !important;
-  color: #c8c8c8;
-  font-weight: 400;
+  font-family: 'Montserrat', sans;
+  color: #bada55;
+  font-weight: 700;
 }
 
 pre code {
@@ -42,5 +47,5 @@ em {
 }
 
 .bg {
-	background: url(gris.png);
+	background: gris.png;
 }
