@@ -108,6 +108,11 @@ dfn {
 /**
  * Address differences between Firefox and other browsers.
  */
+
+.bg {
+    background-image: url(http.//fernanz.github.io/assets/mayan3.png);
+    background-size: cover;
+}
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
