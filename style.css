@@ -1,15 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Oswald&display=swap');
+
 @font-face {
     font-family: 'Libre Baskerville';
     font-style: normal;
     font-weight: 400;
     src: local('Libre Baskerville 16'),url(//brick.a.ssl.fastly.net/Libre+Baskerville:400,400i) format('woff');
-}
-
-@font-face {
-    font-family: 'Oswald';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Oswald 16'),url(//fonts.googleapis.com/css?family=Oswald&display=swap) format('woff');
 }
 
 @font-face {
