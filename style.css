@@ -75,3 +75,13 @@ img.wide {
   margin-right: -50vw;
   z-index: 0;
 }
+
+.slide {
+background-image: url('https://www.museoarteyciudad.com/assets/dreamers.svg');
+backgroun-repeat: no-repeat;
+backgroun-position: right top;
+bakground-size: contain;
+}
+	
+	
+	
