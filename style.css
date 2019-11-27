@@ -49,3 +49,8 @@ em {
 .bg {
 	background: url(http://fernanz.github.io/assets/papers.png);
 }
+
+img.full{
+	width: 100%;
+	margin: 0 auto;
+}
