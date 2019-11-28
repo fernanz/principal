@@ -68,15 +68,3 @@ background-size: 300px;
   margin: 0 auto 0 auto;
   padding: 110px 30px 30px 30px;
 }
-
-.arrow {
-  border: 30px solid rgb(119,136,153);
-}
-
-.prev:hover {
-  border-right-color: rgba(119,136,153,.5) !important;
-}
-
-.next:hover {
-  border-left-color: rgba(119,136,153,.5)!important;
-}
