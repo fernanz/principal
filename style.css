@@ -56,15 +56,8 @@ img.wide {
 }
 
 .slide {
-background-image: url('https://www.museoarteyciudad.com/assets/dreamers.svg');
+background-image: url('https://www.copol.edu.ec/images/ii_bienal_literatura/logo.png');
 background-repeat: no-repeat;
 background-position: right top;
 background-size: 300px;
-}
-
-.slide-content {
-  width: 1000px;
-  height: 800px;
-  margin: 0 auto 0 auto;
-  padding: 110px 30px 30px 30px;
 }
