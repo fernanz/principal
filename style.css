@@ -56,10 +56,15 @@ img.wide {
 }
 
 .slide {
+background-color: rgba(244,235,228,.4);
 background-image: url('https://www.copol.edu.ec/images/ii_bienal_literatura/slider/pes_top.png'), url('https://www.copol.edu.ec/images/ii_bienal_literatura/logo.png');
 background-repeat: no-repeat, no-repeat;
 background-position: left top, right top;
 background-position-y: -1em, 3em;
 background-position-x: -1em, 95%;
 background-size: 425px, 200px;
+}
+
+.slide-content {
+  margin: 120px auto 0 auto;
 }
